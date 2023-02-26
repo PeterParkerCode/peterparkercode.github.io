@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PhantomBroken</title>
     <link>http://peterparkercode.github.io/</link>
-    <description>Recent content on PhantomBroken Blog</description>
+    <description>Recent content on PhantomBroken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Feb 2023 11:18:20 -0500</lastBuildDate><atom:link href="http://peterparkercode.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Sun, 26 Feb 2023 11:18:20 -0500</pubDate>
       
       <guid>http://peterparkercode.github.io/posts/mypost/</guid>
-      <description>FIRST POST FINALLY</description>
+      <description>FIRST POST FINALLY. Going to be my main place for my posts,keeping in contact with yall, annoucements and censorship free from youtube!</description>
     </item>
     
   </channel>
